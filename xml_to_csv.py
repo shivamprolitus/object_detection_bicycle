@@ -91,12 +91,12 @@ def main():
         args.outputFile = args.inputDir + "/labels.csv"
 
     assert os.path.isdir(args.inputDir)
-    os.makedirs(os.path.dirname(args.outputFile), exist_ok=True)
+    os.makedirs(os.path.dirname(args.outputFile))
     xml_df, classes_names = xml_to_csv(args.inputDir)
     xml_df.to_csv(args.outputFile, index=None)
     print("Successfully converted xml to csv.")
     if args.labelMapDir:
-        os.makedirs(args.labelMapDir, exist_ok=True)
+        # os.makedirs(args.labelMapDir, exist_ok=True)
         label_map_path = os.path.join(args.labelMapDir, "label_map.pbtxt")
         print("Generate `{}`".format(label_map_path))
 

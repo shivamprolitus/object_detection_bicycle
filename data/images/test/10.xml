@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>10.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\10.jpg</path>
+	<folder>test</folder>
+	<filename>10.jpeg</filename>
+	<path>/home/shivam/Desktop/object_detection_bicycle/data/images/test/10.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,75 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>bicycle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>451</xmin>
-			<ymin>182</ymin>
-			<xmax>695</xmax>
-			<ymax>359</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>256</xmin>
-			<ymin>27</ymin>
-			<xmax>381</xmax>
-			<ymax>192</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>267</xmin>
-			<ymin>266</ymin>
-			<xmax>402</xmax>
-			<ymax>489</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>208</xmin>
-			<ymin>193</ymin>
-			<xmax>313</xmax>
-			<ymax>266</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>113</xmin>
-			<ymin>295</ymin>
-			<xmax>226</xmax>
-			<ymax>397</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>183</xmin>
-			<ymin>359</ymin>
-			<xmax>275</xmax>
-			<ymax>459</ymax>
+			<xmin>129</xmin>
+			<ymin>164</ymin>
+			<xmax>692</xmax>
+			<ymax>539</ymax>
 		</bndbox>
 	</object>
 </annotation>
