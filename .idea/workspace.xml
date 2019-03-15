@@ -2,43 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b66c1e-618f-46f3-9467-bf23cfcd5f73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/images/test/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/test/10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/test/10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/test/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/test/15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/train/0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/train/1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/train/2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/train/3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/train/4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/train/5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/train/6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/train/7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/train/9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resize_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/resize_images.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xml_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml_to_csv.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,23 +12,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xml_to_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+            <state relative-caret-position="495">
+              <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
               <folding>
-                <element signature="e#262#271#0" expanded="true" />
+                <element signature="e#261#270#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generate_tfrecord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="24" selection-end-column="47" />
+            <state relative-caret-position="392">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
                 <element signature="e#478#509#0" expanded="true" />
               </folding>
@@ -171,34 +134,23 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/xml_to_csv.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xml_to_csv.py">
+    <entry file="file://$PROJECT_DIR$/generate_tfrecord.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="99" column="32" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+        <state relative-caret-position="392">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding>
-            <element signature="e#262#271#0" expanded="true" />
+            <element signature="e#478#509#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generate_tfrecord.py">
+    <entry file="file://$PROJECT_DIR$/xml_to_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="24" selection-end-column="47" />
+        <state relative-caret-position="495">
+          <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
           <folding>
-            <element signature="e#478#509#0" expanded="true" />
+            <element signature="e#261#270#0" expanded="true" />
           </folding>
         </state>
       </provider>
