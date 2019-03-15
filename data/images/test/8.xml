@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>8.jpeg</filename>
+	<path>/home/shivam/Desktop/object_detection_bicycle/data/images/test/8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>69</ymin>
+			<xmax>785</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>
